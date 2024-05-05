@@ -29,7 +29,7 @@ typedef struct binary_tree_s heap_t;
 
 
 
-/* function for testing */
+/* function for testing */   /* binary_tree_print.c */
 void binary_tree_print(const binary_tree_t *);
 
 
