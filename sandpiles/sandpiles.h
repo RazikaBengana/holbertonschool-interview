@@ -5,6 +5,7 @@
 #include <stdio.h>
 
 
+/* 0-sandpiles.c */
 void print_sandpile(int grid[3][3]);
 int check_is_stable(int grid1[3][3], int grid2[3][3]);
 void sum_grids(int grid1[3][3], int grid2[3][3]);
