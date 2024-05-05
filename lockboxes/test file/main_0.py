@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+Main file for testing
+"""
 
 canUnlockAll = __import__('0-lockboxes').canUnlockAll
 
