@@ -1,0 +1,5 @@
+/* the time complexity of the Heap sort algorithm, with 1 notation per line: */
+
+O(nlog(n))  /* best case */
+O(nlog(n))  /* average case */
+O(nlog(n))  /* worst case */
