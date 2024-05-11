@@ -1,0 +1,5 @@
+/* the Big O notations of the time complexity of the Merge Sort algorithm, with 1 notation per line: */
+
+O(nlog(n))  /* best case */
+O(nlog(n))  /* average case */
+O(nlog(n))  /* worst case */
